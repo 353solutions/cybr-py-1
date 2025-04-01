@@ -91,3 +91,36 @@ for n in range(1000):
         total += n
 # Output
 print(total)
+
+n = 1
+while n < 10:
+    print(n)
+    n += 3
+
+n = 1
+while True:
+    if n >= 10:
+        break
+    print(n)
+    n += 3
+
+# Print even numbers up to 10
+for i in range(10):
+    if i % 2 == 1:  # i is odd number
+        continue
+    print(i)
+
+person1 = 'Clark'
+person2 = 'Bruce'
+
+# Unpacking
+person1, person2 = 'Clark', 'Bruce'
+
+# Swap
+# Python first computes the right hand side
+# Then assigns to the left
+person1, person2 = person2, person1
+print(person1, person2)
+
+# Exercise: https://projecteuler.net/problem=2
+# Solution: 4613732
