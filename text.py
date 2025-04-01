@@ -103,3 +103,39 @@ print(nums)
 # print(no_nl)
 nums = nums.replace('\n', '')
 print(nums)
+
+greet = 'שלום'
+print(greet[0])
+
+data = greet.encode()
+print('len(data):', len(data))
+print(data.decode())
+
+# Getting data: bytes -> str (decode)
+# Emitting data: str -> bytes (encode)
+# Internally work with str
+
+# Windows files, regular expressions
+
+# csv_file = 'c:\taxes\new\2025.csv'  # BUG: \t is tab
+# r'' is a "raw" string, \ is just a \
+csv_file = r'c:\taxes\new\2025.csv'
+print(csv_file)
+
+what, price = 'banana', 12.3
+# f'' is f-string (formatted)
+s = f'{what} costs {price}, {price}!'
+print(s)
+
+name = 'Claude'
+print(f'|{name:>20}|')
+print(len(f'{name:>20}'))
+
+import math
+
+# only two digits after the decimal
+print(f'pi = {math.pi:.2f}')
+
+price = 17
+# at least 4 digits, pad with zero
+print(f'price = {price:04d}')
