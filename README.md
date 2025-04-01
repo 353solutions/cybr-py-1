@@ -33,7 +33,7 @@ TBD
 
 #### Word Frequency
 
-What is the most common word in `data/road.txt`?
+What is the most common word in `data/road.txt` ignoring case?
 
 #### Stocks
 
