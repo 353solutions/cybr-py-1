@@ -28,9 +28,19 @@ Miki Tebeka
 
 TBD
 
-### Exercise
+### Exercises
 
 
+#### Word Frequency
+
+What is the most common word in `data/road.txt`?
+
+#### Stocks
+
+```python
+
+
+#### Stocks
 Look at data/stocks.csv
 
 You can read the content using the following code:
@@ -62,6 +72,7 @@ Using the data from `data/prices.csv`, print how much we've gained or lost.
     - [itertools](https://docs.python.org/3/library/itertools.html) - Iterator utilities (good reading ☺)
     - [Generator Tricks for System Programmers](http://www.dabeaz.com/generators/)
     - [Generators: The Final Frontier](https://www.youtube.com/watch?v=D1twn9kLmYg)
+- [Python Type Conversion](https://www.mermaidchart.com/raw/493b268f-89ca-4129-b83a-8d8cd64602e0?theme=light&version=v0.1&format=svg)
 
 
 ### Data & Other
