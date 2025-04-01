@@ -50,3 +50,21 @@ print('city:', city.strip())  # strip whitespace from left & right
 
 city = '_New_York__'  # strip _
 print(city.strip('_'))
+
+for c in 'hello':
+    print(c)
+
+
+def add(a, b):
+    """Return a + b"""
+    return a + b
+
+add(7, 4)
+
+int('3')  # str -> int
+
+def sum_of_digits(s):
+    """
+    >>> sum_of_digits('123')
+    6
+    """
