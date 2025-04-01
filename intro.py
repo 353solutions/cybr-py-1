@@ -124,3 +124,16 @@ print(person1, person2)
 
 # Exercise: https://projecteuler.net/problem=2
 # Solution: 4613732
+# Get, Parse, Analyze, Output
+
+# Get
+total = 0
+f1, f2 = 1, 2
+while f1 < 4_000_000:
+    # Parse: NOP
+    # Analyze
+    if f1 % 2 == 0:
+        total += f1
+    f1, f2 = f2, f1 + f2
+# Output
+print(total)
