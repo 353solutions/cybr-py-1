@@ -26,7 +26,11 @@ Miki Tebeka
 
 ### Code
 
-TBD
+- [intro.py](intro.py) - Introduction to Python, looping, variables ...
+- [euler8.py](euler8.py) - Project Euler #8
+- [text.py](text.py) - Working with text, `str` and `bytes`
+- [looping.py](looping.py) - Looping utilities: `range`, `enumerate`, `zip`, `reversed`
+- [data_types.py](data_types.py) - More data types: `list`, `tuple`, `dict`
 
 ### Exercises
 
@@ -71,6 +75,10 @@ Using the data from `data/prices.csv`, print how much we've gained or lost.
     - [Generator Tricks for System Programmers](http://www.dabeaz.com/generators/)
     - [Generators: The Final Frontier](https://www.youtube.com/watch?v=D1twn9kLmYg)
 - [Python Type Conversion](https://www.mermaidchart.com/raw/493b268f-89ca-4129-b83a-8d8cd64602e0?theme=light&version=v0.1&format=svg)
+- [List of Unicode Characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
+- [Project Euler](https://projecteuler.net/)
+- [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Google Colab](https://colab.research.google.com/) - Notebooks in the cloud
 
 
 ### Data & Other
