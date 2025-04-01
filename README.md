@@ -37,8 +37,6 @@ What is the most common word in `data/road.txt` ignoring case?
 
 #### Stocks
 
-```python
-
 
 #### Stocks
 Look at data/stocks.csv
