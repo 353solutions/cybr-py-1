@@ -2,7 +2,7 @@
 # Answer: 23514624000
 
 # Get
-nums = '''
+text = '''
 73167176531330624919225119674426574742355349194934
 96983520312774506326239578318016984801869478851843
 85861560789112949495459501737958331952853208805511
@@ -29,4 +29,23 @@ nums = '''
 # - Remove newline ('\n')
 # - slicing
 
-# 
+def product(s):
+    total = 1
+    for c in s:
+        total *= int(c)
+    return total
+
+size = 13
+
+# Get
+max_p = 0
+nums = text.replace('\n', '')
+for i in range(len(nums)-size+1):
+    s = nums[i:i+size]
+    # Parse
+    p = product(s)
+    # Analyze
+    if p > max_p:
+        max_p = p
+# Output
+print(max_p)

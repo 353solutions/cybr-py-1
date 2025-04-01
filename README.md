@@ -33,6 +33,7 @@ TBD
 
 ### Links
 
+- [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - [text](https://docs.python.org/3/tutorial/introduction.html#text)
     - [lists](https://docs.python.org/3/tutorial/introduction.html#lists)

@@ -96,3 +96,10 @@ def sum_of_digits2(s):
     
 print(sum_of_digits2('123'))
 print(sum_of_digits2(''))
+
+nums = '12\n34\n'
+print(nums)
+# no_nl = nums.replace('\n', '')
+# print(no_nl)
+nums = nums.replace('\n', '')
+print(nums)
