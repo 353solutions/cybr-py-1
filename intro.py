@@ -79,4 +79,15 @@ print(s)
 # https://projecteuler.net/problem=1
 # Solution: 233168
 
-print(233168)
+# print(233168)
+# GPAO: Get, Parse, Analyze, Output
+
+total = 0
+# Get
+for n in range(1000):
+    # Parse: NOP
+    # Analyze
+    if n % 3 == 0 or n % 5 == 0:
+        total += n
+# Output
+print(total)
