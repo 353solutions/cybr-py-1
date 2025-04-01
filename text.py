@@ -67,4 +67,32 @@ def sum_of_digits(s):
     """
     >>> sum_of_digits('123')
     6
+    >>> sum_of_digits('')
+    0
     """
+    # FIXME: Your code goes here
+    total = 0
+    # Get
+    for c in s:
+        # Parse
+        n = int(c)
+        # Analyze
+        total += n
+    return total
+
+print(sum_of_digits('123'))
+print(sum_of_digits(''))
+
+def sum_of_digits2(s):
+    if len(s) == 0:
+        return 0
+
+    total = 0
+    n = int(s)
+    while n > 0:
+        total += n % 10
+        n = n // 10 # total //= 10
+    return total
+    
+print(sum_of_digits2('123'))
+print(sum_of_digits2(''))
