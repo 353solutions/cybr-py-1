@@ -31,6 +31,22 @@ TBD
 ### Exercise
 
 
+Look at data/stocks.csv
+
+You can read the content using the following code:
+
+```python
+with open('data/stocks.csv') as fp:
+    data = fp.read()
+```
+
+Answer the following questions:
+- Print sorted unique list of symbols (CSCO ...)
+- Print how many stocks of CSCO we own (symbol)
+- Print how much money we've invested (price * volume)
+
+Using the data from `data/prices.csv`, print how much we've gained or lost.
+
 ### Links
 
 - [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)

@@ -139,3 +139,23 @@ print(f'pi = {math.pi:.2f}')
 price = 17
 # at least 4 digits, pad with zero
 print(f'price = {price:04d}')
+
+print('x' * 10)
+
+
+def banner(s, width):
+    ...  # FIXME: Your code goes here
+    print(f'{s:^{width}}')
+    print('-' * width)
+
+
+def banner2(s, width):
+    padding = (width - len(s))//2
+    print(' ' * padding, end='')
+    print(s)
+    print('-' * width)
+
+
+banner("Hi", 6)
+#   Hi
+# ------
