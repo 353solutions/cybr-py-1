@@ -113,6 +113,19 @@ TBD
 How many requests in [http.log.gz](data/http.log.gz) resulted in an error (status code >= 400)?
 Use `gzip.open` to read the file.
 
+Example lines:
+```
+uplherc.upl.com - - [01/Aug/1995:00:00:08 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 304 0
+uplherc.upl.com - - [01/Aug/1995:00:00:08 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 304 0
+uplherc.upl.com - - [01/Aug/1995:00:00:08 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 304 0
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:09 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
+uplherc.upl.com - - [01/Aug/1995:00:00:10 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 304 0
+slppp6.intermind.net - - [01/Aug/1995:00:00:10 -0400] "GET /history/skylab/skylab.html HTTP/1.0" 200 1687
+piweba4y.prodigy.com - - [01/Aug/1995:00:00:10 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
+slppp6.intermind.net - - [01/Aug/1995:00:00:11 -0400] "GET /history/skylab/skylab-small.gif HTTP/1.0" 200 9202
+```
+
+<!--
 #### Generate QR Code
 
 Write a function `generate_qrs(input_file, output_dir)` that will generate a QR code for data in `input_file` and save it in `output_dir`.
@@ -123,6 +136,7 @@ Write a function `generate_qrs(input_file, output_dir)` that will generate a QR 
 
 Example MCARD: `MECARD:N:Bunny,Bugs;TEL:555-555-5555;EMAIL:bugs@looney.com;;`
 Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bugs;TEL:555-555-5555;EMAIL:bugs@looney.com;;`
+-->
 
 ### Links
 
