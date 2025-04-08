@@ -106,7 +106,6 @@ Using the data from `data/prices.csv`, print how much we've gained or lost.
 TBD
 
 
-<!--
 ### Exercises
 
 #### Stocks
@@ -119,6 +118,7 @@ If you look at [the output](data/aapl.json) you can that for every message in th
 #### Count Errors
 
 How many requests in [http.log.gz](data/http.log.gz) resulted in an error (status code >= 400)?
+Use `gzip.open` to read the file.
 
 #### Generate QR Code
 
@@ -130,7 +130,6 @@ Write a function `generate_qrs(input_file, output_dir)` that will generate a QR 
 
 Example MCARD: `MECARD:N:Bunny,Bugs;TEL:555-555-5555;EMAIL:bugs@looney.com;;`
 Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bugs;TEL:555-555-5555;EMAIL:bugs@looney.com;;`
--->
 
 ### Links
 
@@ -148,3 +147,4 @@ Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bu
 ### Data & Other
 
 - [http.log.gz](data/http.log.gz)
+- `https://api.github.com/users/tebeka`
