@@ -126,6 +126,10 @@ slppp6.intermind.net - - [01/Aug/1995:00:00:11 -0400] "GET /history/skylab/skyla
 ```
 
 <!--
+#### Stock Tweets
+
+related
+
 #### Generate QR Code
 
 Write a function `generate_qrs(input_file, output_dir)` that will generate a QR code for data in `input_file` and save it in `output_dir`.
@@ -140,6 +144,14 @@ Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bu
 
 ### Links
 
+- Programming Exercises:
+    - [exercism](https://exercism.org/tracks/python/exercises)
+    - [LeetCode](https://leetcode.com/problemset/all/)
+    - [Codewars](https://www.codewars.com/kata)
+    - [Project Euler](https://projecteuler.net/archives)
+- [HTTP in cats](https://http.cat/)
+- [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) (or `import this`)
+- [Year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem)
 - [List comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) in the Python tutorial
 - [Defining functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) in the Python tutorial
 - [pathlib](https://docs.python.org/3/library/pathlib.html) module - Handling file paths
