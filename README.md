@@ -108,13 +108,6 @@ TBD
 
 ### Exercises
 
-#### Stocks
-
-Write a function `related_stocks(symbol)` that will return a dict with stocks mentioned when calling stocktweets API.
-
-For example, to get information about `AAPL`, use the following URL: `https://api.stocktwits.com/api/2/streams/symbol/AAPL.json`.
-If you look at [the output](data/aapl.json) you can that for every message in the `messages` section there's a `symbols` section.
-
 #### Count Errors
 
 How many requests in [http.log.gz](data/http.log.gz) resulted in an error (status code >= 400)?

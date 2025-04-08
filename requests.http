@@ -1,0 +1,2 @@
+### Get user
+GET https://api.github.com/users/tebeka
