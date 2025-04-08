@@ -1,3 +1,5 @@
+from pathlib import Path
+
 # Get
 poem = """
 The Road goes ever on and on
@@ -28,3 +30,10 @@ for word, count in counts.items():
 
 # Output
 print(max_word)
+
+### Work with file
+
+
+def word_freq(file_name: Path | str) -> dict[str, int]:
+    pass  # FIXME: Your code goes here
+    # Hint: You can run a "for" loop on an file to get line by line

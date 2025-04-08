@@ -52,9 +52,12 @@ def sync(src: Path | str, dest: Path | str):
     """Copy all files from src to dest that are missing or newer."""
     src, dest = Path(src), Path(dest)
 
-    assert src.exists() and src.is_dir(), (
-        f'{src} is does not exists or is not a directory'
-    )
+    if not src.exists() or not src.is_dir():
+        raise ValueError(f'{src} is does not exists or is not a directory')
+
+    # assert src.exists() and src.is_dir(), (
+    #     f'{src} is does not exists or is not a directory'
+    # )
 
     # parents=True means create intermediate directories
     dest.mkdir(parents=True, exist_ok=True)
