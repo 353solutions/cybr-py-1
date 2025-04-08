@@ -139,4 +139,12 @@ for line in prices_text.splitlines():
     symbol, price = prase_price(line)
     prices[symbol] = price
 
-worth = [trade['volume'] * prices[trade['symbol']] for trade in trades]
+worth = sum([trade['volume'] * prices[trade['symbol']] for trade in trades])
+
+diff = worth - spent
+if diff > 0:
+    verb = 'gained'
+else:
+    verb = 'lost'
+
+print(f'We {verb} ${diff:,}!')
