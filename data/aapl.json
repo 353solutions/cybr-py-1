@@ -1,0 +1,3176 @@
+{
+  "symbol": {
+    "id": 686,
+    "symbol": "AAPL",
+    "symbol_mic": "NASDAQ",
+    "exchange": "NASDAQ",
+    "region": "US",
+    "title": "Apple Inc",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 959859,
+    "has_pricing": true,
+    "instrument_class": "Stock",
+    "live_event": false,
+    "earnings_cta": "up_earn_tab",
+    "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+  },
+  "cursor": {
+    "more": true,
+    "since": 610832661,
+    "max": 610826598
+  },
+  "regions": [],
+  "filters": [],
+  "messages": [
+    {
+      "id": 610832661,
+      "body": "$AAPL why can’t Apple fully automate its phones",
+      "created_at": "2025-04-08T05:39:39Z",
+      "discussion": false,
+      "user": {
+        "id": 2952204,
+        "username": "Robd1992",
+        "name": "Robert D",
+        "avatar_url": "https://avatars.stocktwits.com/production/2952204/thumb-1635139248.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2952204/thumb-1635139248.png",
+        "join_date": "2019-12-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "CA",
+        "search_regions": [],
+        "followers": 23,
+        "following": 10,
+        "ideas": 2205,
+        "watchlist_stocks_count": 14,
+        "like_count": 1718,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959859,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610832648,
+      "body": "$AAPL why are people afraid of this dip lol its gonna rip further up https://youtu.be/AhKe3j-pahY?si=q5NvoMe49HPoJ9hl",
+      "created_at": "2025-04-08T05:39:05Z",
+      "discussion": false,
+      "user": {
+        "id": 9888436,
+        "username": "MaesTechnicalAnalysis",
+        "name": "Maedison",
+        "avatar_url": "https://avatars.stocktwits.com/production/9888436/thumb-1742511419.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9888436/thumb-1742511419.png",
+        "join_date": "2025-02-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 35,
+        "following": 3,
+        "ideas": 377,
+        "watchlist_stocks_count": 20,
+        "like_count": 34,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959859,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "links": [
+        {
+          "title": "Is AAPL Stock a Buying Opportunity during this Market Crash?",
+          "url": "https://youtu.be/AhKe3j-pahY?si=q5NvoMe49HPoJ9hl",
+          "shortened_url": "https://stkt.co/VkOTe0WB",
+          "shortened_expanded_url": "youtube.com/watch?v=AhKe3j-...",
+          "description": "💎 Discord FREE to JOIN 32,000+ People➡️ https://discord.gg/bullishraid 🎉 Join 32,000+ BullishRaid Patrons on Discord (90% OFF) ➡️ https://www.patreon.com/bullishraiddiscord?fan_landing=true 🔹Join our Patreon Membership! We share our long term spreadsheets, as well as in-depth stock analysis, trade ideas, and due diligence! - https://www.patreon.com/bullishraiddi... | All tiers are currently $10 - $50 Monthly INSTEAD of $100 - $500 Monthly.",
+          "image": "https://i.ytimg.com/vi/AhKe3j-pahY/hqdefault.jpg",
+          "created_at": "2025-04-08T05:39:06Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAhKe3j-pahY%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAhKe3j-pahY=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAhKe3j-pahY%2Fhqdefault.jpg=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": {
+          "basic": "Bullish"
+        },
+        "discussable": null
+      }
+    },
+    {
+      "id": 610832543,
+      "body": "$WULF Wulf was right behind NVDA for after-hours volume at 11,162,000 6th highest volume on the Q. wow Someone knows something we don&#39;t. yet :] More than double and triple the Volume of $TSLA , $GOOGL , $AAPL and $MSFT",
+      "created_at": "2025-04-08T05:34:28Z",
+      "discussion": false,
+      "user": {
+        "id": 3254079,
+        "username": "WhipperRocketMan",
+        "name": "James",
+        "avatar_url": "https://avatars.stocktwits.com/production/3254079/thumb-1598749653.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3254079/thumb-1598749653.png",
+        "join_date": "2020-04-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "CA",
+        "search_regions": [],
+        "followers": 151,
+        "following": 43,
+        "ideas": 5717,
+        "watchlist_stocks_count": 38,
+        "like_count": 2881,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2275,
+          "symbol": "WULF",
+          "symbol_mic": "WULF.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "TeraWulf Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12903,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "res_earn_tab",
+          "earnings_id": "8fae7dad-a30b-4520-9d25-4e746f8e5431"
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "symbol_mic": "TSLA.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Tesla Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1022115,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "7d79a5a2-320f-40bd-a0c5-720bd0d083bd"
+        },
+        {
+          "id": 11938,
+          "symbol": "GOOGL",
+          "symbol_mic": "GOOGL.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Alphabet Inc - Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 198924,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "res_earn_tab",
+          "earnings_id": null
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "symbol_mic": "MSFT.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Microsoft Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 506577,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1075789
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": {
+          "basic": "Bullish"
+        },
+        "discussable": null
+      }
+    },
+    {
+      "id": 610832007,
+      "body": "$AAPL  \n$MSFT  \n$NVDA  \n$AMZN  \n$GOOGL  \n \nAmazing A.I",
+      "created_at": "2025-04-08T05:11:16Z",
+      "discussion": false,
+      "user": {
+        "id": 10003256,
+        "username": "Mounak",
+        "name": "Muonak",
+        "avatar_url": "https://avatars.stocktwits.com/production/10003256/thumb-1744088912.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/10003256/thumb-1744088912.png",
+        "join_date": "2025-04-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "GB",
+        "search_regions": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 8,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959859,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "symbol_mic": "MSFT.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Microsoft Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 506577,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "symbol_mic": "NVDA.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "NVIDIA Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 596358,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "symbol_mic": "AMZN.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Amazon.com Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 666910,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 11938,
+          "symbol": "GOOGL",
+          "symbol_mic": "GOOGL.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Alphabet Inc - Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 198924,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "res_earn_tab",
+          "earnings_id": null
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610832007,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          9993891
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3101243,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3101243/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3101243/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3101243/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3101243/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3101243/default.png",
+            "height": 834,
+            "width": 1089,
+            "ratio": 1.30576,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3101243,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3101243/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3101243/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3101243/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3101243/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3101243/default.png",
+          "height": 834,
+          "width": 1089,
+          "ratio": 1.30576
+        },
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610831942,
+      "body": "$AAPL New alerts have been posted in the last hours http://trade-alerts.fast-page.org",
+      "created_at": "2025-04-08T05:09:01Z",
+      "discussion": false,
+      "user": {
+        "id": 9948321,
+        "username": "ShelbyPrice",
+        "name": "Shelby Price",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_6_thumb.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_6_thumb.png",
+        "join_date": "2025-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 2,
+        "following": 3,
+        "ideas": 1,
+        "watchlist_stocks_count": 0,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://trade-alerts.fast-page.org",
+          "shortened_url": "https://stkt.co/F535Nknx",
+          "shortened_expanded_url": "trade-alerts.fast-page.org/",
+          "description": null,
+          "image": null,
+          "created_at": "2025-04-08T05:09:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Fast-page",
+            "website": "http://trade-alerts.fast-page.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610831745,
+      "body": "$AAPL cnbc was saying we do not know what the effects of tarriffs on the stock market could be, they also said no one knows what the effect of the covid outbreak would be and one more thing they said sub prime loans crisis in 2007 was &quot;too small to effect the stock market&quot; after each onslaught sell off liquidation the FED cuts rates a point and dumps trillion or 2 stimulus money then the stock market pops for next 7 to 11 years but during the liquidation when stop loss orders are all run out and margin calls forcing out the weak into the hands of waiting buyers of buyers like warren buffet.    The elite stock rulers call this &quot;transfer of wealth&quot;  which is a financial operation caused by fear and panic which is satanic spread by multi media, so......do not get scared join the elite and buy with pleasure when stocks dipped fast.",
+      "created_at": "2025-04-08T05:00:30Z",
+      "discussion": false,
+      "user": {
+        "id": 2956381,
+        "username": "thewolfshepperd",
+        "name": "King Gold",
+        "avatar_url": "https://avatars.stocktwits.com/production/2956381/thumb-1610373878.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2956381/thumb-1610373878.png",
+        "join_date": "2019-12-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "CA",
+        "search_regions": [],
+        "followers": 135,
+        "following": 19,
+        "ideas": 4677,
+        "watchlist_stocks_count": 29,
+        "like_count": 3180,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610831745,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610830845,
+      "body": "$AAPL today we learned….Erase China from all equations",
+      "created_at": "2025-04-08T04:28:32Z",
+      "discussion": false,
+      "user": {
+        "id": 14464,
+        "username": "SparkySC",
+        "name": "SparkySC",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_3_thumb.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_3_thumb.png",
+        "join_date": "2010-05-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 347,
+        "following": 76,
+        "ideas": 38367,
+        "watchlist_stocks_count": 282,
+        "like_count": 4673,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610830345,
+      "body": "$TLT $aapl $SPY  \n \n💥🩸🐻🏎️❤️‍🩹❤️‍🔥🎁bear",
+      "created_at": "2025-04-08T04:13:00Z",
+      "discussion": false,
+      "user": {
+        "id": 9600304,
+        "username": "optionsforliving1",
+        "name": "Obie Okley",
+        "avatar_url": "https://avatars.stocktwits.com/production/9600304/thumb-1740747767.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9600304/thumb-1740747767.png",
+        "join_date": "2024-11-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 1180,
+        "following": 2,
+        "ideas": 434,
+        "watchlist_stocks_count": 2,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7428,
+          "symbol": "TLT",
+          "symbol_mic": "TLT.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "BlackRock Institutional Trust Company N.A. - iShares 20+ Year Treasury Bond ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 27424,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570386,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610830345,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          3780782,
+          9997830,
+          3243920,
+          9327276,
+          9832060,
+          10003214,
+          4017107,
+          4372883,
+          4030661
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3100908,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100908/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100908/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100908/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100908/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100908/default.png",
+            "height": 2622,
+            "width": 1206,
+            "ratio": 0.459954,
+            "provider": null,
+            "provider_id": null
+          },
+          {
+            "id": 3100909,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100909/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100909/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100909/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100909/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100909/default.png",
+            "height": 2796,
+            "width": 1290,
+            "ratio": 0.461373,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100908,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100908/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100908/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100908/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100908/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100908/default.png",
+          "height": 2622,
+          "width": 1206,
+          "ratio": 0.459954
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        },
+        "discussable": null
+      }
+    },
+    {
+      "id": 610830171,
+      "body": "$AAPL Didn&#39;t Apple drop around 50% last time they had a trade war with china? this time is even worse. No deal coming with China. I wouldn&#39;t be in any rush to buy this. $SPY",
+      "created_at": "2025-04-08T04:07:24Z",
+      "discussion": false,
+      "user": {
+        "id": 9883223,
+        "username": "hellblade",
+        "name": "hellblade",
+        "avatar_url": "https://avatars.stocktwits.com/production/9883223/thumb-1740156623.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9883223/thumb-1740156623.png",
+        "join_date": "2025-02-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "EE",
+        "search_regions": [],
+        "followers": 6,
+        "following": 1,
+        "ideas": 89,
+        "watchlist_stocks_count": 5,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570374,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1769969
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610830150,
+      "body": "$AAPL 🙌 https://x.com/malone_wealth/status/1909455325335265524?s=46&amp;t=5eIysIXgxgGo0cN-k4FQSw",
+      "created_at": "2025-04-08T04:06:53Z",
+      "discussion": false,
+      "user": {
+        "id": 2119108,
+        "username": "CaliFinancialAdvisor",
+        "name": "CaliFinancialAdvisor",
+        "avatar_url": "https://avatars.stocktwits.com/production/2119108/thumb-1611846893.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2119108/thumb-1611846893.png",
+        "join_date": "2019-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 230,
+        "following": 469,
+        "ideas": 1692,
+        "watchlist_stocks_count": 3,
+        "like_count": 225,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "links": [
+        {
+          "title": "Kevin Malone on X (formerly Twitter): \"According to SEC filings, Ryan Cohen has the largest CEO insider buy of any public company in April. pic.twitter.com/5D8F287FkM / X\"",
+          "url": "https://x.com/malone_wealth/status/1909455325335265524?s=46&t=5eIysIXgxgGo0cN-k4FQSw",
+          "shortened_url": "https://stkt.co/InMXl3w2",
+          "shortened_expanded_url": "x.com/malone_wealth/status/...",
+          "description": "According to SEC filings, Ryan Cohen has the largest CEO insider buy of any public company in April. pic.twitter.com/5D8F287FkM",
+          "image": null,
+          "created_at": "2025-04-08T04:06:53Z",
+          "video_url": null,
+          "source": {
+            "name": "X (Formerly Twitter)",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610830044,
+      "body": "$SPY Our 512 target getting tagged in overnight trading, congrats to those that followed us on the 515 calls swing! \n \nIf 512 holds a 517 test could be coming if 505 holds,glta \n$AAPL $AMZN",
+      "created_at": "2025-04-08T04:04:27Z",
+      "discussion": false,
+      "user": {
+        "id": 8883395,
+        "username": "SoraSwingTrades",
+        "name": "𓄀 Sora Swing Trades 🕊️",
+        "avatar_url": "https://avatars.stocktwits.com/production/8883395/thumb-1728745066.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8883395/thumb-1728745066.png",
+        "join_date": "2024-02-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 140,
+        "following": 15,
+        "ideas": 979,
+        "watchlist_stocks_count": 8,
+        "like_count": 71,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570386,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "symbol_mic": "AMZN.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Amazon.com Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 666905,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          881780
+        ]
+      },
+      "reshare_message": {
+        "reshared_count": 3,
+        "reshared_deleted": false,
+        "reshared_user_deleted": false,
+        "parent_reshared_deleted": false,
+        "message": {
+          "id": 610767832,
+          "body": "Unless SPY gets smacked down again below 500 this might be gunning for 512 - in the 515 calls @ 9.24 exp fri",
+          "created_at": "2025-04-07T17:40:47Z",
+          "discussion": false,
+          "user": {
+            "id": 8883395,
+            "username": "SoraSwingTrades",
+            "name": "𓄀 Sora Swing Trades 🕊️",
+            "avatar_url": "https://avatars.stocktwits.com/production/8883395/thumb-1728745066.png",
+            "avatar_url_ssl": "https://avatars.stocktwits.com/production/8883395/thumb-1728745066.png",
+            "join_date": "2024-02-28",
+            "official": false,
+            "identity": "User",
+            "classification": [],
+            "home_country": "US",
+            "search_regions": [],
+            "followers": 140,
+            "following": 15,
+            "ideas": 979,
+            "watchlist_stocks_count": 8,
+            "like_count": 71,
+            "plus_tier": "",
+            "premium_room": "",
+            "trade_app": false,
+            "trade_status": "PENDING_MFA"
+          },
+          "source": {
+            "id": 2269,
+            "title": "StockTwits Web",
+            "url": "https://stocktwits.com"
+          },
+          "mentioned_users": [],
+          "entities": {
+            "media": [
+              {
+                "id": 3088948,
+                "type": "image",
+                "thumb": "https://media.stocktwits-cdn.com/api/3/media/3088948/thumb.png",
+                "medium": "https://media.stocktwits-cdn.com/api/3/media/3088948/medium.png",
+                "large": "https://media.stocktwits-cdn.com/api/3/media/3088948/large.png",
+                "original": "https://media.stocktwits-cdn.com/api/3/media/3088948/original.png",
+                "url": "https://media.stocktwits-cdn.com/api/3/media/3088948/default.png",
+                "height": 311,
+                "width": 530,
+                "ratio": 1.70418,
+                "provider": null,
+                "provider_id": null
+              }
+            ],
+            "chart": {
+              "id": 3088948,
+              "type": "image",
+              "thumb": "https://media.stocktwits-cdn.com/api/3/media/3088948/thumb.png",
+              "medium": "https://media.stocktwits-cdn.com/api/3/media/3088948/medium.png",
+              "large": "https://media.stocktwits-cdn.com/api/3/media/3088948/large.png",
+              "original": "https://media.stocktwits-cdn.com/api/3/media/3088948/original.png",
+              "url": "https://media.stocktwits-cdn.com/api/3/media/3088948/default.png",
+              "height": 311,
+              "width": 530,
+              "ratio": 1.70418
+            },
+            "sentiment": null,
+            "discussable": null
+          }
+        }
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610829855,
+      "body": "$AAPL https://fortune.com/2025/04/07/howard-lutnick-iphones-america-apple-tariffs/ bbc",
+      "created_at": "2025-04-08T03:58:05Z",
+      "discussion": false,
+      "user": {
+        "id": 6824320,
+        "username": "Jeff123123",
+        "name": "Jeff123123",
+        "avatar_url": "https://avatars.stocktwits.com/production/6824320/thumb-1743333779.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/6824320/thumb-1743333779.png",
+        "join_date": "2022-08-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 66,
+        "following": 1,
+        "ideas": 3867,
+        "watchlist_stocks_count": 1,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "links": [
+        {
+          "title": "Howard Lutnick says he hopes Trump's tariffs will eliminate China's 'army of millions and millions of human beings screwing in little, little screws to make iPhones' so they can be built in America by robots",
+          "url": "https://fortune.com/2025/04/07/howard-lutnick-iphones-america-apple-tariffs/",
+          "shortened_url": "https://stkt.co/9NKXLkDN",
+          "shortened_expanded_url": "fortune.com/2025/04/07/howa...",
+          "description": "The Commerce Secretary said the U.S. government would \"protect\" companies that \"invest in America.\"",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-2201135732-e1744044039542.jpg?resize=1200,600",
+          "created_at": "2025-04-08T03:58:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Fortune",
+            "website": "https://fortune.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610829637,
+      "body": "$AAPL $NVDA $TSLA be careful guys",
+      "created_at": "2025-04-08T03:51:33Z",
+      "discussion": false,
+      "user": {
+        "id": 5220685,
+        "username": "Rashed7",
+        "name": "Rashed",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_2_thumb.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_2_thumb.png",
+        "join_date": "2021-03-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "search_regions": [],
+        "followers": 16,
+        "following": 3,
+        "ideas": 585,
+        "watchlist_stocks_count": 9,
+        "like_count": 271,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "symbol_mic": "NVDA.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "NVIDIA Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 596356,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "symbol_mic": "TSLA.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Tesla Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1022117,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "7d79a5a2-320f-40bd-a0c5-720bd0d083bd"
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610829637,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4659933,
+          5978933
+        ]
+      },
+      "reshare_message": {
+        "reshared_count": 2,
+        "reshared_deleted": false,
+        "reshared_user_deleted": false,
+        "parent_reshared_deleted": false,
+        "message": {
+          "id": 610820471,
+          "body": "Donald trump says &quot;if China does not withdraw its 34% increase above their already long term trading abuses by tomorrow, April 8th, 2025, the United States will impose ADDITIONAL Tariffs on China of 50%&quot;\n\nBe careful guys! It might drop tomorrow.\n\nSource: https://www.cbsnews.com/news/trump-tariffs-china-50-percent-tariff-retaliatory/?utm_source=chatgpt.com\n\n$NVDA $TSLA $AAPL",
+          "created_at": "2025-04-08T01:11:09Z",
+          "discussion": false,
+          "user": {
+            "id": 5220685,
+            "username": "Rashed7",
+            "name": "Rashed",
+            "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_2_thumb.png",
+            "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_2_thumb.png",
+            "join_date": "2021-03-11",
+            "official": false,
+            "identity": "User",
+            "classification": [],
+            "search_regions": [],
+            "followers": 16,
+            "following": 3,
+            "ideas": 585,
+            "watchlist_stocks_count": 9,
+            "like_count": 271,
+            "plus_tier": "",
+            "premium_room": "",
+            "trade_app": false,
+            "trade_status": "PENDING_MFA"
+          },
+          "source": {
+            "id": 1149,
+            "title": "StockTwits for iOS",
+            "url": "http://www.stocktwits.com/mobile"
+          },
+          "symbols": [
+            {
+              "id": 2925,
+              "symbol": "NVDA",
+              "symbol_mic": "NVDA.XNAS",
+              "exchange": "NASDAQ",
+              "region": "US",
+              "title": "NVIDIA Corp",
+              "aliases": [],
+              "is_following": false,
+              "watchlist_count": 596356,
+              "has_pricing": true,
+              "instrument_class": "Stock",
+              "live_event": false
+            },
+            {
+              "id": 8660,
+              "symbol": "TSLA",
+              "symbol_mic": "TSLA.XNAS",
+              "exchange": "NASDAQ",
+              "region": "US",
+              "title": "Tesla Inc",
+              "aliases": [],
+              "is_following": false,
+              "watchlist_count": 1022117,
+              "has_pricing": true,
+              "instrument_class": "Stock",
+              "live_event": false,
+              "earnings_cta": "up_earn_tab",
+              "earnings_id": "7d79a5a2-320f-40bd-a0c5-720bd0d083bd"
+            },
+            {
+              "id": 686,
+              "symbol": "AAPL",
+              "symbol_mic": "NASDAQ",
+              "exchange": "NASDAQ",
+              "region": "US",
+              "title": "Apple Inc",
+              "aliases": [],
+              "is_following": false,
+              "watchlist_count": 959848,
+              "has_pricing": true,
+              "instrument_class": "Stock",
+              "live_event": false,
+              "earnings_cta": "up_earn_tab",
+              "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+            }
+          ],
+          "conversation": {
+            "parent_message_id": 610820471,
+            "in_reply_to_message_id": null,
+            "parent": true,
+            "replies": 1
+          },
+          "links": [
+            {
+              "title": "Trump threatens to impose an additional 50% tariff on China",
+              "url": "https://www.cbsnews.com/news/trump-tariffs-china-50-percent-tariff-retaliatory/?utm_source=chatgpt.com",
+              "shortened_url": "https://stkt.co/kXPi7qEJ",
+              "shortened_expanded_url": "cbsnews.com/news/trump-tari...",
+              "description": "President Trump said he will slap more tariffs on imports from China if it doesn't withdraw a retaliatory tariff on U.S. products.",
+              "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/06/9508cfd2-3232-4147-bf47-975b1c3f82a1/thumbnail/1200x630/f3264fba452d2847b5b8339eb78c0ada/trump.jpg?v=7613930c2bdb7d1bf55be910a9b022f2",
+              "created_at": "2025-04-08T01:11:09Z",
+              "video_url": null,
+              "source": {
+                "name": "Cbsnews",
+                "website": "https://www.cbsnews.com"
+              }
+            }
+          ],
+          "likes": {
+            "total": 2,
+            "user_ids": [
+              5220685,
+              1144424
+            ]
+          },
+          "mentioned_users": [],
+          "entities": {
+            "media": [],
+            "sentiment": {
+              "basic": "Bearish"
+            },
+            "discussable": null
+          }
+        }
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": {
+          "basic": "Bearish"
+        },
+        "discussable": null
+      }
+    },
+    {
+      "id": 610829414,
+      "body": "$AAPL $AAL  China says it will not cave in- https://www.investing.com/news/economy-news/china-says-it-will-not-cave-in-if-us-proceeds-with-new-tariff-threat-3972495",
+      "created_at": "2025-04-08T03:46:15Z",
+      "discussion": false,
+      "user": {
+        "id": 265383,
+        "username": "prstrader",
+        "name": "Russ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_14_thumb.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_14_thumb.png",
+        "join_date": "2013-09-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 149,
+        "following": 0,
+        "ideas": 29315,
+        "watchlist_stocks_count": 10,
+        "like_count": 847,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 11711,
+          "symbol": "AAL",
+          "symbol_mic": "AAL.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "American Airlines Group Inc",
+          "aliases": [
+            "LCC",
+            "AAMRQ"
+          ],
+          "is_following": false,
+          "watchlist_count": 108786,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "res_earn_tab",
+          "earnings_id": "37382142-6bd3-474e-a225-e83abc723f76"
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.investing.com/news/economy-news/china-says-it-will-not-cave-in-if-us-proceeds-with-new-tariff-threat-3972495",
+          "shortened_url": "https://stkt.co/g7QaaRPE",
+          "shortened_expanded_url": "investing.com/news/economy-...",
+          "description": null,
+          "image": null,
+          "created_at": "2025-04-08T03:46:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Investing",
+            "website": "https://www.investing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610829412,
+      "body": "$SPY $AAPL $NVDA  \nWhy you guys chosen &quot;yes&quot;?",
+      "created_at": "2025-04-08T03:46:13Z",
+      "discussion": false,
+      "user": {
+        "id": 9988493,
+        "username": "Klay_Thompson11",
+        "name": "Klay Thompson",
+        "avatar_url": "https://avatars.stocktwits.com/production/9988493/thumb-1743996900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9988493/thumb-1743996900.png",
+        "join_date": "2025-04-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 5,
+        "watchlist_stocks_count": 4,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570374,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "symbol_mic": "NVDA.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "NVIDIA Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 596347,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610829412,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3100732,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100732/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100732/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100732/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100732/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100732/default.png",
+            "height": 345,
+            "width": 758,
+            "ratio": 2.1971,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100732,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100732/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100732/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100732/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100732/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100732/default.png",
+          "height": 345,
+          "width": 758,
+          "ratio": 2.1971
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        },
+        "discussable": null
+      }
+    },
+    {
+      "id": 610829014,
+      "body": "$AAPL how  many  followers do  you  have?  You  have  double &amp;  tripled  talked  so  many  times  in  2  days  covering  every  possible short  &amp;  long  trades🤡",
+      "created_at": "2025-04-08T03:36:47Z",
+      "discussion": false,
+      "user": {
+        "id": 332345,
+        "username": "george1sun2003",
+        "name": "Ron",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_14_thumb.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_14_thumb.png",
+        "join_date": "2014-03-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 8,
+        "following": 59,
+        "ideas": 2393,
+        "watchlist_stocks_count": 0,
+        "like_count": 1462,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610829014,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "reshare_message": {
+        "reshared_count": 2,
+        "reshared_deleted": false,
+        "reshared_user_deleted": false,
+        "parent_reshared_deleted": false,
+        "message": {
+          "id": 610828188,
+          "body": "I SHORTED $AAPL 175P",
+          "created_at": "2025-04-08T03:18:03Z",
+          "discussion": false,
+          "user": {
+            "id": 9108898,
+            "username": "trading_momentum",
+            "name": "Trading Momentum",
+            "avatar_url": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+            "avatar_url_ssl": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+            "join_date": "2024-05-30",
+            "official": false,
+            "identity": "User",
+            "classification": [],
+            "home_country": "US",
+            "search_regions": [],
+            "followers": 4306,
+            "following": 2,
+            "ideas": 22245,
+            "watchlist_stocks_count": 36,
+            "like_count": 6279,
+            "plus_tier": "",
+            "premium_room": "",
+            "trade_app": false,
+            "trade_status": "PENDING_MFA"
+          },
+          "source": {
+            "id": 2269,
+            "title": "StockTwits Web",
+            "url": "https://stocktwits.com"
+          },
+          "symbols": [
+            {
+              "id": 686,
+              "symbol": "AAPL",
+              "symbol_mic": "NASDAQ",
+              "exchange": "NASDAQ",
+              "region": "US",
+              "title": "Apple Inc",
+              "aliases": [],
+              "is_following": false,
+              "watchlist_count": 959842,
+              "has_pricing": true,
+              "instrument_class": "Stock",
+              "live_event": false,
+              "earnings_cta": "up_earn_tab",
+              "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+            }
+          ],
+          "conversation": {
+            "parent_message_id": 610828188,
+            "in_reply_to_message_id": null,
+            "parent": true,
+            "replies": 1
+          },
+          "mentioned_users": [],
+          "entities": {
+            "media": [],
+            "sentiment": null,
+            "discussable": null
+          }
+        }
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610828959,
+      "body": "$AAPL",
+      "created_at": "2025-04-08T03:35:23Z",
+      "discussion": false,
+      "user": {
+        "id": 332345,
+        "username": "george1sun2003",
+        "name": "Ron",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_14_thumb.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_14_thumb.png",
+        "join_date": "2014-03-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 8,
+        "following": 59,
+        "ideas": 2393,
+        "watchlist_stocks_count": 0,
+        "like_count": 1462,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "reshare_message": {
+        "reshared_count": 1,
+        "reshared_deleted": false,
+        "reshared_user_deleted": false,
+        "parent_reshared_deleted": false,
+        "message": {
+          "id": 610828188,
+          "body": "I SHORTED $AAPL 175P",
+          "created_at": "2025-04-08T03:18:03Z",
+          "discussion": false,
+          "user": {
+            "id": 9108898,
+            "username": "trading_momentum",
+            "name": "Trading Momentum",
+            "avatar_url": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+            "avatar_url_ssl": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+            "join_date": "2024-05-30",
+            "official": false,
+            "identity": "User",
+            "classification": [],
+            "home_country": "US",
+            "search_regions": [],
+            "followers": 4304,
+            "following": 2,
+            "ideas": 22245,
+            "watchlist_stocks_count": 36,
+            "like_count": 6279,
+            "plus_tier": "",
+            "premium_room": "",
+            "trade_app": false,
+            "trade_status": "PENDING_MFA"
+          },
+          "source": {
+            "id": 2269,
+            "title": "StockTwits Web",
+            "url": "https://stocktwits.com"
+          },
+          "symbols": [
+            {
+              "id": 686,
+              "symbol": "AAPL",
+              "symbol_mic": "NASDAQ",
+              "exchange": "NASDAQ",
+              "region": "US",
+              "title": "Apple Inc",
+              "aliases": [],
+              "is_following": false,
+              "watchlist_count": 959842,
+              "has_pricing": true,
+              "instrument_class": "Stock",
+              "live_event": false,
+              "earnings_cta": "up_earn_tab",
+              "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+            }
+          ],
+          "conversation": {
+            "parent_message_id": 610828188,
+            "in_reply_to_message_id": null,
+            "parent": true,
+            "replies": 1
+          },
+          "mentioned_users": [],
+          "entities": {
+            "media": [],
+            "sentiment": null,
+            "discussable": null
+          }
+        }
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610828501,
+      "body": "$AAPL Question: If Tim doesn&#39;t get a special exemption on the tariffs what options do they have? They make zero iphones in America.",
+      "created_at": "2025-04-08T03:25:14Z",
+      "discussion": false,
+      "user": {
+        "id": 8999869,
+        "username": "Yoloallday666",
+        "name": "Howard",
+        "avatar_url": "https://avatars.stocktwits.com/production/8999869/thumb-1712770594.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8999869/thumb-1712770594.png",
+        "join_date": "2024-04-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "CA",
+        "search_regions": [],
+        "followers": 27,
+        "following": 0,
+        "ideas": 31,
+        "watchlist_stocks_count": 19,
+        "like_count": 63,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610828501,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610828341,
+      "body": "$AAPL to 200!",
+      "created_at": "2025-04-08T03:21:27Z",
+      "discussion": false,
+      "user": {
+        "id": 422591,
+        "username": "ManicTraderx1",
+        "name": "Jon",
+        "avatar_url": "https://avatars.stocktwits.com/production/422591/thumb-1735540113.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/422591/thumb-1735540113.png",
+        "join_date": "2014-11-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "search_regions": [],
+        "followers": 39,
+        "following": 157,
+        "ideas": 431,
+        "watchlist_stocks_count": 293,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959848,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          9783970
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610828188,
+      "body": "I SHORTED $AAPL 175P",
+      "created_at": "2025-04-08T03:18:03Z",
+      "discussion": false,
+      "user": {
+        "id": 9108898,
+        "username": "trading_momentum",
+        "name": "Trading Momentum",
+        "avatar_url": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "join_date": "2024-05-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 4305,
+        "following": 2,
+        "ideas": 22245,
+        "watchlist_stocks_count": 36,
+        "like_count": 6279,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610828188,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "reshares": {
+        "reshared_count": 2,
+        "user_ids": [
+          332345,
+          332345
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610828179,
+      "body": "I have calls on X $SPY $AAPL $TSLA $XLF $XLE that I can sell tomorrow as long as these hold",
+      "created_at": "2025-04-08T03:17:54Z",
+      "discussion": false,
+      "user": {
+        "id": 9108898,
+        "username": "trading_momentum",
+        "name": "Trading Momentum",
+        "avatar_url": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "join_date": "2024-05-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 4303,
+        "following": 2,
+        "ideas": 22245,
+        "watchlist_stocks_count": 36,
+        "like_count": 6279,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570360,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "symbol_mic": "TSLA.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Tesla Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1022091,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "7d79a5a2-320f-40bd-a0c5-720bd0d083bd"
+        },
+        {
+          "id": 7816,
+          "symbol": "XLF",
+          "symbol_mic": "XLF.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "Financial Select Sector SPDR",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 17574,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 7815,
+          "symbol": "XLE",
+          "symbol_mic": "XLE.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "The Energy Select Sector SPDR Fund",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21431,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4007671
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610828126,
+      "body": "$AAPL",
+      "created_at": "2025-04-08T03:16:33Z",
+      "discussion": false,
+      "user": {
+        "id": 4341644,
+        "username": "FKYOUSPIRIT",
+        "name": "Winning",
+        "avatar_url": "https://avatars.stocktwits.com/production/4341644/thumb-1742290060.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4341644/thumb-1742290060.png",
+        "join_date": "2020-11-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 276,
+        "following": 6,
+        "ideas": 7352,
+        "watchlist_stocks_count": 3,
+        "like_count": 298,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "reshare_message": {
+        "reshared_count": 1,
+        "reshared_deleted": false,
+        "reshared_user_deleted": false,
+        "parent_reshared_deleted": false,
+        "message": {
+          "id": 607499597,
+          "body": "$AAPL here comes the Biden crash",
+          "created_at": "2025-03-10T18:28:08Z",
+          "discussion": false,
+          "user": {
+            "id": 9019843,
+            "username": "Edjones5062",
+            "name": "Edward",
+            "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_8_thumb.png",
+            "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_8_thumb.png",
+            "join_date": "2024-04-19",
+            "official": false,
+            "identity": "User",
+            "classification": [],
+            "home_country": "US",
+            "search_regions": [],
+            "followers": 18,
+            "following": 0,
+            "ideas": 1359,
+            "watchlist_stocks_count": 16,
+            "like_count": 4,
+            "plus_tier": "",
+            "premium_room": "",
+            "trade_app": false,
+            "trade_status": "PENDING_MFA"
+          },
+          "source": {
+            "id": 1149,
+            "title": "StockTwits for iOS",
+            "url": "http://www.stocktwits.com/mobile"
+          },
+          "symbols": [
+            {
+              "id": 686,
+              "symbol": "AAPL",
+              "symbol_mic": "NASDAQ",
+              "exchange": "NASDAQ",
+              "region": "US",
+              "title": "Apple Inc",
+              "aliases": [],
+              "is_following": false,
+              "watchlist_count": 959835,
+              "has_pricing": true,
+              "instrument_class": "Stock",
+              "live_event": false,
+              "earnings_cta": "up_earn_tab",
+              "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+            }
+          ],
+          "likes": {
+            "total": 1,
+            "user_ids": [
+              8955161
+            ]
+          },
+          "mentioned_users": [],
+          "entities": {
+            "media": [],
+            "sentiment": null,
+            "discussable": null
+          }
+        }
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3100443,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100443/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100443/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100443/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100443/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100443/default.png",
+            "height": 1337,
+            "width": 1170,
+            "ratio": 0.875094,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100443,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100443/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100443/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100443/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100443/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100443/default.png",
+          "height": 1337,
+          "width": 1170,
+          "ratio": 0.875094
+        },
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827916,
+      "body": "$AAPL weekly 200sma looks good for a bounce or cooked, good spot for leap imo... below 170 would be ugly",
+      "created_at": "2025-04-08T03:11:50Z",
+      "discussion": false,
+      "user": {
+        "id": 9108898,
+        "username": "trading_momentum",
+        "name": "Trading Momentum",
+        "avatar_url": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "join_date": "2024-05-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 4301,
+        "following": 2,
+        "ideas": 22245,
+        "watchlist_stocks_count": 36,
+        "like_count": 6279,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3100394,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100394/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100394/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100394/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100394/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100394/default.png",
+            "height": 1862,
+            "width": 3670,
+            "ratio": 1.971,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100394,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100394/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100394/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100394/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100394/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100394/default.png",
+          "height": 1862,
+          "width": 3670,
+          "ratio": 1.971
+        },
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827490,
+      "body": "$AAPL - What an amazing bounce from 175.36 weekly demand. Ran for nearly $20 on about .60c of drawdown",
+      "created_at": "2025-04-08T03:02:06Z",
+      "discussion": false,
+      "user": {
+        "id": 9108898,
+        "username": "trading_momentum",
+        "name": "Trading Momentum",
+        "avatar_url": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/9108898/thumb-1731941008.png",
+        "join_date": "2024-05-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 4298,
+        "following": 2,
+        "ideas": 22245,
+        "watchlist_stocks_count": 36,
+        "like_count": 6279,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          10003124,
+          10002823
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3100307,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100307/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100307/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100307/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100307/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100307/default.png",
+            "height": 891,
+            "width": 1835,
+            "ratio": 2.05948,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100307,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100307/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100307/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100307/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100307/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100307/default.png",
+          "height": 891,
+          "width": 1835,
+          "ratio": 2.05948
+        },
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827380,
+      "body": "$AAPL https://www.ctvnews.ca/world/trumps-tariffs/article/china-says-will-take-countermeasures-after-trump-threatens-additional-50-tariff/ yut",
+      "created_at": "2025-04-08T02:59:24Z",
+      "discussion": false,
+      "user": {
+        "id": 6824320,
+        "username": "Jeff123123",
+        "name": "Jeff123123",
+        "avatar_url": "https://avatars.stocktwits.com/production/6824320/thumb-1743333779.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/6824320/thumb-1743333779.png",
+        "join_date": "2022-08-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 66,
+        "following": 1,
+        "ideas": 3839,
+        "watchlist_stocks_count": 1,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "links": [
+        {
+          "title": "China threatens countermeasures after Trump threatens additional 50% tariff",
+          "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/china-says-will-take-countermeasures-after-trump-threatens-additional-50-tariff/",
+          "shortened_url": "https://stkt.co/Ihgj6Dgr",
+          "shortened_expanded_url": "ctvnews.ca/world/trumps-tar...",
+          "description": "China threatened to \"resolutely take countermeasures to safeguard its own rights and interests,\" in response to President Donald Trump's threat of an additional 50% tariff on Chinese imports.",
+          "image": "https://www.ctvnews.ca/resizer/v2/SUC4YNILCL5GSOIOPEYB4GIMX4.jpg?smart=true&auth=84d7d0ad4da537734fef921b358d672b5da796f329ed9d341cad0b762a71e52d&width=1200&height=630",
+          "created_at": "2025-04-08T02:59:25Z",
+          "video_url": null,
+          "source": {
+            "name": "CTVNews",
+            "website": "https://www.ctvnews.ca"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827353,
+      "body": "$AAPL Apple sees iPhone panic buying before Trump tariffs take effect- Bloomberg \n \nApple (NASDAQ:AAPL) saw a spike in retail traffic over the weekend as customers rushed to buy iPhones ahead of expected price hikes tied to President Trump’s new tariffs, Bloomberg reported. Store employees across multiple U.S. locations said shoppers were concerned that iPhone prices would rise sharply, given that roughly 90% of Apple’s flagship device is produced in China. The iPhone, Apple’s top-selling product, is now in the crosshairs of the ongoing trade dispute.",
+      "created_at": "2025-04-08T02:58:44Z",
+      "discussion": false,
+      "user": {
+        "id": 689912,
+        "username": "AlertsAndNews",
+        "name": "AlertsAndNews",
+        "avatar_url": "https://avatars.stocktwits.com/production/689912/thumb-1646712583.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/689912/thumb-1646712583.png",
+        "join_date": "2016-02-17",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "premium",
+          "premium_edge"
+        ],
+        "search_regions": [],
+        "followers": 24298,
+        "following": 145,
+        "ideas": 39206,
+        "watchlist_stocks_count": 1,
+        "like_count": 2776,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          10003119,
+          9392128,
+          9780875
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827290,
+      "body": "$SPY The only way we are going to know what direction we go is by tarrif news. Nobody can predict the future, everybody&#39;s making an educated guess at this point. Think we are screwed and max tarrifs for China ? Then buy puts... If u think we can make an agreement with China then buy calls. All this bickering is just political at this point but bottom line is the tarrifs had to be done we were obviously being taking advantage of. May hurt short term but pretty sure all sides can come to some kinds agreement in the end. That&#39;s my guess $aapl $qqq $msft",
+      "created_at": "2025-04-08T02:57:15Z",
+      "discussion": false,
+      "user": {
+        "id": 3871602,
+        "username": "WuTangClam",
+        "name": "METHOD MAN",
+        "avatar_url": "https://avatars.stocktwits.com/production/3871602/thumb-1655431376.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3871602/thumb-1655431376.png",
+        "join_date": "2020-07-29",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "premium"
+        ],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 344,
+        "following": 189,
+        "ideas": 19386,
+        "watchlist_stocks_count": 36,
+        "like_count": 21307,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570360,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 9581,
+          "symbol": "QQQ",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Invesco QQQ Trust Series 1",
+          "aliases": [
+            "QQQQ"
+          ],
+          "is_following": false,
+          "watchlist_count": 217004,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "symbol_mic": "MSFT.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Microsoft Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 506563,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610827290,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          5048056,
+          6967516,
+          5481306,
+          9909388
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827150,
+      "body": "$SPY Ok, I think I got one to admit the truth. \nSee, all you need to do sometimes is just talk to them nicely &amp; they will come around. \n \nCongrats @OracleOfOmaha_Steaks! Happy to have you \n \n$djt $aapl $meta $nflx",
+      "created_at": "2025-04-08T02:54:44Z",
+      "discussion": false,
+      "user": {
+        "id": 543250,
+        "username": "GoodNewsBull",
+        "name": "Rob C",
+        "avatar_url": "https://avatars.stocktwits.com/production/543250/thumb-1572205873.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/543250/thumb-1572205873.png",
+        "join_date": "2015-07-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 5728,
+        "following": 379,
+        "ideas": 238613,
+        "watchlist_stocks_count": 27,
+        "like_count": 58542,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "symbol_mic": "SPY.ARCX",
+          "exchange": "NYSEArca",
+          "region": "US",
+          "title": "SPDR S&P 500 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 570374,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        },
+        {
+          "id": 9617,
+          "symbol": "DJT",
+          "symbol_mic": "DJT.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Trump Media & Technology Group Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 111495,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959842,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 7871,
+          "symbol": "META",
+          "symbol_mic": "META.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Meta Platforms Inc",
+          "aliases": [
+            "FBOOK",
+            "MTVS",
+            "FB"
+          ],
+          "is_following": false,
+          "watchlist_count": 574223,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "70caedeb-f95f-4eba-b410-faf72c778ff8"
+        },
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "symbol_mic": "NFLX.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Netflix Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 493638,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9619cc0f-a084-42a2-a8a0-ac08119bb9e4"
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 610827150,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [
+        "@OracleOfOmaha_Steaks"
+      ],
+      "entities": {
+        "media": [
+          {
+            "id": 3100221,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100221/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100221/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100221/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100221/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100221/default.png",
+            "height": 1074,
+            "width": 1364,
+            "ratio": 1.27002,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100221,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100221/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100221/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100221/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100221/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100221/default.png",
+          "height": 1074,
+          "width": 1364,
+          "ratio": 1.27002
+        },
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610827067,
+      "body": "$AAPL https://www.ctvnews.ca/world/trumps-tariffs/article/china-says-will-take-countermeasures-after-trump-threatens-additional-50-tariff/ etrwa",
+      "created_at": "2025-04-08T02:53:17Z",
+      "discussion": false,
+      "user": {
+        "id": 6824320,
+        "username": "Jeff123123",
+        "name": "Jeff123123",
+        "avatar_url": "https://avatars.stocktwits.com/production/6824320/thumb-1743333779.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/6824320/thumb-1743333779.png",
+        "join_date": "2022-08-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 66,
+        "following": 1,
+        "ideas": 3839,
+        "watchlist_stocks_count": 1,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        }
+      ],
+      "links": [
+        {
+          "title": "China threatens countermeasures after Trump threatens additional 50% tariff",
+          "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/china-says-will-take-countermeasures-after-trump-threatens-additional-50-tariff/",
+          "shortened_url": "https://stkt.co/EeaDW4n8",
+          "shortened_expanded_url": "ctvnews.ca/world/trumps-tar...",
+          "description": "China threatened to \"resolutely take countermeasures to safeguard its own rights and interests,\" in response to President Donald Trump's threat of an additional 50% tariff on Chinese imports.",
+          "image": "https://www.ctvnews.ca/resizer/v2/SUC4YNILCL5GSOIOPEYB4GIMX4.jpg?smart=true&auth=84d7d0ad4da537734fef921b358d672b5da796f329ed9d341cad0b762a71e52d&width=1200&height=630",
+          "created_at": "2025-04-08T02:53:17Z",
+          "video_url": null,
+          "source": {
+            "name": "CTVNews",
+            "website": "https://www.ctvnews.ca"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "media": [],
+        "sentiment": null,
+        "discussable": null
+      }
+    },
+    {
+      "id": 610826598,
+      "body": "&amp; now he wants to know what real Traders do so of course he follows me 😂 \n \nIts all good, I have no issues teaching MAGA how to get some courage &amp; ballz &amp; learn to trade \n \n$djt $amzn $aapl $qqq",
+      "created_at": "2025-04-08T02:44:14Z",
+      "discussion": false,
+      "user": {
+        "id": 543250,
+        "username": "GoodNewsBull",
+        "name": "Rob C",
+        "avatar_url": "https://avatars.stocktwits.com/production/543250/thumb-1572205873.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/543250/thumb-1572205873.png",
+        "join_date": "2015-07-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "home_country": "US",
+        "search_regions": [],
+        "followers": 5724,
+        "following": 379,
+        "ideas": 238601,
+        "watchlist_stocks_count": 27,
+        "like_count": 58542,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false,
+        "trade_status": "PENDING_MFA"
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9617,
+          "symbol": "DJT",
+          "symbol_mic": "DJT.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Trump Media & Technology Group Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 111489,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "symbol_mic": "AMZN.XNAS",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Amazon.com Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 666888,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false
+        },
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Apple Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 959835,
+          "has_pricing": true,
+          "instrument_class": "Stock",
+          "live_event": false,
+          "earnings_cta": "up_earn_tab",
+          "earnings_id": "9b793043-91f1-4506-ae75-f5eb0058cea5"
+        },
+        {
+          "id": 9581,
+          "symbol": "QQQ",
+          "symbol_mic": "NASDAQ",
+          "exchange": "NASDAQ",
+          "region": "US",
+          "title": "Invesco QQQ Trust Series 1",
+          "aliases": [
+            "QQQQ"
+          ],
+          "is_following": false,
+          "watchlist_count": 217004,
+          "has_pricing": true,
+          "instrument_class": "ExchangeTradedFund",
+          "live_event": false
+        }
+      ],
+      "reshare_message": {
+        "reshared_count": 2,
+        "reshared_deleted": false,
+        "reshared_user_deleted": false,
+        "parent_reshared_deleted": false,
+        "message": {
+          "id": 610826031,
+          "body": "@GoodNewsBull 🤣🤣 You dig up a post from years ago (like a psycho) where I say I sold Amazon at $90 and I&#39;m canceling my subscription and not using Amazon and try to use that to dunk. In that same post I say I&#39;ve owned and used Amazon it since 2006. Oh but all of the sudden you don&#39;t believe that post any more? How convenient. Well maybe I still own it then,  or maybe I sold right at the top at $250 🤣. \n\nNo,  I&#39;ve never talked or posted about the vast majority of things I&#39;ve owned or moves I&#39;ve made, nor will I. I&#39;ve never posted a trade confirmation and never will. Certainly not gonna dig a many year&#39;s old one up for your dumb ass. I don&#39;t care one tiny bit about getting fillowers because I&#39;m not a dumb, sad,  pathetic loser. Get a life there little chief. No more crumbs for you troll, you&#39;ve eaten enough.",
+          "created_at": "2025-04-08T02:34:39Z",
+          "discussion": false,
+          "user": {
+            "id": 812613,
+            "username": "OracleOfOmaha_Steaks",
+            "name": "Mike",
+            "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_12_thumb.png",
+            "avatar_url_ssl": "https://avatars.stocktwits.com/images/default_avatar_12_thumb.png",
+            "join_date": "2016-08-05",
+            "official": false,
+            "identity": "User",
+            "classification": [],
+            "home_country": "US",
+            "search_regions": [],
+            "followers": 4,
+            "following": 29,
+            "ideas": 272,
+            "watchlist_stocks_count": 25,
+            "like_count": 58,
+            "plus_tier": "",
+            "premium_room": "",
+            "trade_app": false,
+            "trade_status": "PENDING_MFA"
+          },
+          "source": {
+            "id": 2095,
+            "title": "StockTwits For Android ",
+            "url": "http://www.stocktwits.com/mobile"
+          },
+          "conversation": {
+            "parent_message_id": 610825172,
+            "in_reply_to_message_id": 610825172,
+            "parent": false,
+            "replies": 0
+          },
+          "mentioned_users": [
+            "@GoodNewsBull"
+          ],
+          "entities": {
+            "media": [],
+            "sentiment": null,
+            "discussable": null
+          }
+        }
+      },
+      "mentioned_users": [],
+      "entities": {
+        "media": [
+          {
+            "id": 3100106,
+            "type": "image",
+            "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100106/thumb.png",
+            "medium": "https://media.stocktwits-cdn.com/api/3/media/3100106/medium.png",
+            "large": "https://media.stocktwits-cdn.com/api/3/media/3100106/large.png",
+            "original": "https://media.stocktwits-cdn.com/api/3/media/3100106/original.png",
+            "url": "https://media.stocktwits-cdn.com/api/3/media/3100106/default.png",
+            "height": 372,
+            "width": 1456,
+            "ratio": 3.91398,
+            "provider": null,
+            "provider_id": null
+          }
+        ],
+        "chart": {
+          "id": 3100106,
+          "type": "image",
+          "thumb": "https://media.stocktwits-cdn.com/api/3/media/3100106/thumb.png",
+          "medium": "https://media.stocktwits-cdn.com/api/3/media/3100106/medium.png",
+          "large": "https://media.stocktwits-cdn.com/api/3/media/3100106/large.png",
+          "original": "https://media.stocktwits-cdn.com/api/3/media/3100106/original.png",
+          "url": "https://media.stocktwits-cdn.com/api/3/media/3100106/default.png",
+          "height": 372,
+          "width": 1456,
+          "ratio": 3.91398
+        },
+        "sentiment": null,
+        "discussable": null
+      }
+    }
+  ],
+  "response": {
+    "status": 200
+  }
+}

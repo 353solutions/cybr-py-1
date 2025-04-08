@@ -41,8 +41,6 @@ What is the most common word in `data/road.txt` ignoring case?
 
 #### Stocks
 
-
-#### Stocks
 Look at data/stocks.csv
 
 You can read the content using the following code:
@@ -87,3 +85,55 @@ Using the data from `data/prices.csv`, print how much we've gained or lost.
 - [road.txt](data/road.txt)
 - ☺
 - ♡
+
+---
+
+# Day 2: Working with Python
+
+### Agenda
+
+- List comprehensions
+- Defining & calling functions
+- Working with files
+- Handling resources using `with`
+- Error handling
+- Modules & packages (imports)
+- Calling REST APIs
+
+
+### Code
+
+TBD
+
+
+<!--
+### Exercises
+
+#### Stocks
+
+Write a function `related_stocks(symbol)` that will return a dict with stocks mentioned when calling stocktweets API.
+
+For example, to get information about `AAPL`, use the following URL: `https://api.stocktwits.com/api/2/streams/symbol/AAPL.json`.
+If you look at [the output](data/aapl.json) you can that for every message in the `messages` section there's a `symbols` section.
+
+#### Count Errors
+
+How many requests in [http.log.gz](data/http.log.gz) resulted in an error (status code >= 400)?
+-->
+
+
+### Links
+
+- [List comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) in the Python tutorial
+- [Defining functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) in the Python tutorial
+- [pathlib](https://docs.python.org/3/library/pathlib.html) module - Handling file paths
+- [shutil](https://docs.python.org/3/library/shutil.html) module - shell like utlities
+- [Context Managers and Python's "with" Statement](https://realpython.com/python-with-statement/)
+- [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html) in the Python tutorial
+- [Modules](https://docs.python.org/3/tutorial/modules.html) in the Python tutorial
+- [JSON](https://www.json.org/json-en.html) specification
+- Python's [json](https://docs.python.org/3/library/json.html) module
+- [A typical HTTP session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Session)
+
+### Data & Other
+- [http.log.gz](data/http.log.gz)
