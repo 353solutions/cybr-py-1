@@ -84,3 +84,14 @@ print(parse_line(line))
 
 trades = [parse_line(line) for line in trades_text.splitlines()]
 pprint(trades)
+
+# Print unique list of symbols, sorted
+# Every time you hear "unique", think set
+symbols = set([trade['symbol'] for trade in trades])
+print('We are invested in:')
+for symbol in sorted(symbols):
+    print(f'- {symbol}')
+
+# How many stocks of CSCO do we own?
+num_csco = 0  # FIXME
+print(f'We own {num_csco} stocks of CSCO')
