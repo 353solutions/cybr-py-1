@@ -93,5 +93,50 @@ for symbol in sorted(symbols):
     print(f'- {symbol}')
 
 # How many stocks of CSCO do we own?
-num_csco = 0  # FIXME
+num_csco = sum(
+    [
+        trade['volume']  # map
+        for trade in trades
+        if trade['symbol'] == 'CSCO'  # filter
+    ]
+)
 print(f'We own {num_csco} stocks of CSCO')
+
+# How much money we invested so far?
+spent = sum(
+    [
+        trade['price'] * trade['volume']
+        for trade in trades
+        # no filter
+    ]
+)
+print(f'We spent {spent:,} so far')
+
+
+# How much did we gain?
+prices_text = """\
+CSCO,61.71
+GOOG,156.23
+IBM,248.66
+MSFT,375.39
+TSLA,259.16
+"""
+
+# list comprehension
+[i * i for i in range(5)]
+# dict comprehension
+{i: i * i for i in range(5)}
+
+
+def prase_price(line):
+    symbol, price = line.split(',')
+    return symbol, float(price)
+
+
+print(prase_price('TSLA,259.16'))
+prices = {}
+for line in prices_text.splitlines():
+    symbol, price = prase_price(line)
+    prices[symbol] = price
+
+worth = [trade['volume'] * prices[trade['symbol']] for trade in trades]
