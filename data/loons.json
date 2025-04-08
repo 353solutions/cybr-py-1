@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bugs Bunny",
+    "email": "bugs@looney.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "name": "Daffy Duck",
+    "email": "daffy@looney.com",
+    "phone": "555-123-4568"
+  },
+  {
+    "name": "Pepé Le Pew",
+    "email": "pepé @looney.com",
+    "phone": "555-123-4569"
+  }
+]
