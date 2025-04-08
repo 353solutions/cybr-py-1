@@ -32,8 +32,19 @@ for word, count in counts.items():
 print(max_word)
 
 ### Work with file
+# Windows: r'c:\path\to\road.txt'
+# Windows: 'c:/path/to/road.txt'
 
 
 def word_freq(file_name: Path | str) -> dict[str, int]:
-    pass  # FIXME: Your code goes here
-    # Hint: You can run a "for" loop on an file to get line by line
+    counts = {}
+
+    with open(file_name) as fp:
+        for line in fp:
+            for word in line.split():
+                word = word.lower()
+                counts[word] = counts.get(word, 0) + 1
+    return counts
+
+
+print(word_freq('data/road.txt'))
