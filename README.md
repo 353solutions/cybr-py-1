@@ -167,3 +167,40 @@ Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bu
 
 - [http.log.gz](data/http.log.gz)
 - `https://api.github.com/users/tebeka`
+
+---
+
+## Day 3
+
+### Agenda
+
+- OO Basics
+	- Classes and instances
+	- Methods
+	- Special methods
+	- Inheritance
+- Managing dependencies with pip
+- Tesing with pytest
+	- Test cases
+	- Parametrized tests
+	- Fixtures
+
+### Code
+
+TBD
+
+### Links
+
+- [Classes](https://docs.python.org/3/tutorial/classes.html) in the Python tutorial
+- [Installing packages](https://packaging.python.org/en/latest/tutorials/installing-packages/)
+- [Using Python's pip to Manage Your Projects' Dependencies](https://realpython.com/what-is-pip/)
+- Other package managers
+    - [uv](https://astral.sh/blog/uv)
+    - [poetry](https://python-poetry.org/)
+    - [pipenv](https://pipenv.pypa.io/en/latest/)
+    - [conda](https://docs.conda.io/en/latest/)
+- [pytest](https://docs.pytest.org/en/stable/)
+
+### Data & Other
+
+- [tokenize_cases.yml](data/tokenize_cases.yml)
