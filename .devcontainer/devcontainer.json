@@ -15,7 +15,8 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"humao.rest-client"
+		"humao.rest-client",
+		"ms-toolsai.jupyter"
 	],
 	"remoteUser": "vscode",
 	"postCreateCommand": "sh .devcontainer/startup.sh"
