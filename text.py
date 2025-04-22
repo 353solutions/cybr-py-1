@@ -159,3 +159,13 @@ def banner2(s, width):
 banner("Hi", 6)
 #   Hi
 # ------
+
+
+x, y = 1, '1'
+print(f'x = {x}, y = {y}')
+print(f'x = {x!r}, y = {y!r}')
+print(f'{x=}, {y=}')
+
+# Two ways to represent an object as a string
+# - str: for end users
+# - repr: for developers, usually a way to create such an object
