@@ -1,4 +1,5 @@
-from urllib.request import urlopen
+from urllib.request import urlopen, HTTPError
+
 import json
 # import requests
 
@@ -55,3 +56,22 @@ print('num_repos:', reply['public_repos'])
 # return ('', 0)
 # >>> user_info('tebeka')
 # ('Miki Tebeka', 85)
+
+def user_info(login):
+  """Return user name and number of repos from GitHub API.
+
+  >>> user_info('tebeka')
+  ('Miki Tebeka', 85)
+  """
+  # TODO: urlencode login?
+  url = 'https://api.github.com/users/' + login
+  try:
+    with urlopen(url) as fp:
+      reply = json.load(fp)
+  except HTTPError:
+    return ('', 0)
+
+  return (reply['name'], reply['public_repos'])
+
+user_info('tebekaxxx')
+
