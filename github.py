@@ -1,4 +1,5 @@
 from urllib.request import urlopen
+import json
 # import requests
 
 url = 'https://api.github.com/users/tebeka'
@@ -18,7 +19,39 @@ Content-Length: 535
 ...
 """
 
-fp = urlopen('https://api.github.com/users/tebeka')
-print('status:', fp.status)
-print('size:', fp.headers['content-length'])
-print('body:', fp.read())
+"""JSON
+Serialization: Convert a type in Python to a sequence of bytes (and back)
+We do it since computers can send/store only bytes
+
+# JSON <- Type -> Python
+null <-> None
+true/false <-> True/False
+number <-> int/float
+string <-> string
+array <-> list
+object <-> dict
+
+MIA:
+string/number <-> datetime
+string (base64) <-> bytes
+
+# json API
+loads/dumps: bytes/str
+load/dump: file like objects
+"""
+
+with urlopen('https://api.github.com/users/tebeka') as fp:
+  print('status:', fp.status)
+  print('size:', fp.headers['content-length'])
+  # print('body:', fp.read())
+  reply = json.load(fp)
+
+print('name:', reply['name'])
+print('num_repos:', reply['public_repos'])
+
+# Exercise: Write a function user_info(login)
+# That will return user name and number of public repos
+# If there's an error (urlopen raises URLError)
+# return ('', 0)
+# >>> user_info('tebeka')
+# ('Miki Tebeka', 85)
