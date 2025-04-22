@@ -200,6 +200,7 @@ TBD
     - [pipenv](https://pipenv.pypa.io/en/latest/)
     - [conda](https://docs.conda.io/en/latest/)
 - [pytest](https://docs.pytest.org/en/stable/)
+- [colab notebook](https://colab.research.google.com/drive/1zrdnYbUfH6Pklqd6ur2tT_msbFTvZH0S?usp=sharing)
 
 ### Data & Other
 
