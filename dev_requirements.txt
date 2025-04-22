@@ -1,0 +1,8 @@
+# Development dependencies
+
+# Include production requirements
+-r requirements.txt
+
+PyYAML ~= 6.0
+pytest ~= 8.3
+ruff ~= 0.11

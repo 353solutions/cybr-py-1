@@ -103,8 +103,14 @@ Using the data from `data/prices.csv`, print how much we've gained or lost.
 
 ### Code
 
-TBD
-
+- [equal.py](equal.py) - Identity vs equality
+- [funcs.py](funcs.py) - Defining & calling functions
+- [github.py](github.py) - Get user info from GitHub, JSON
+- [imports.py](imports.py) - Importing modules
+- [kill_server.py](kill_server.py) - Error handling
+- [list_comprehension.py](list_comprehension.py) - List comprehensions
+- [sync.py](sync.py) - Sync context of two directories
+- [word_freq.py](word_freq.py) - Word frequency
 
 ### Exercises
 
@@ -124,23 +130,6 @@ slppp6.intermind.net - - [01/Aug/1995:00:00:10 -0400] "GET /history/skylab/skyla
 piweba4y.prodigy.com - - [01/Aug/1995:00:00:10 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
 slppp6.intermind.net - - [01/Aug/1995:00:00:11 -0400] "GET /history/skylab/skylab-small.gif HTTP/1.0" 200 9202
 ```
-
-<!--
-#### Stock Tweets
-
-related
-
-#### Generate QR Code
-
-Write a function `generate_qrs(input_file, output_dir)` that will generate a QR code for data in `input_file` and save it in `output_dir`.
-
-- Use [QR Code Generator API](https://goqr.me/api/doc/create-qr-code/) to generate the QR code
-- QR should contains `MCARD` format
-- Output file name should be `first-last.png` (e.g. `bugs-bunny.png`)
-
-Example MCARD: `MECARD:N:Bunny,Bugs;TEL:555-555-5555;EMAIL:bugs@looney.com;;`
-Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bugs;TEL:555-555-5555;EMAIL:bugs@looney.com;;`
--->
 
 ### Links
 
@@ -187,7 +176,13 @@ Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bu
 
 ### Code
 
-TBD
+- [num_http_errors.py](num_http_errors.py) - Count errors in `http.log.gz`
+- [github.py](github.py) - Get user info from GitHub, JSON
+- [game.py](game.py) - OO
+- [class_utils.py](class_utils.py) - Class creation utilities (namedtuple, dataclass)
+- [nlp_test.py](nlp_test.py) - Testing with PyTest
+    - [nlp.py](nlp.py) - Tested code
+    - [Makefile](Makefile) - Test automation
 
 ### Exercises
 
@@ -220,7 +215,13 @@ Write tests for the class using `pytest`.
     - [pipenv](https://pipenv.pypa.io/en/latest/)
     - [conda](https://docs.conda.io/en/latest/)
 - [pytest](https://docs.pytest.org/en/stable/)
+- Linters
+    - [ruff](https://docs.astral.sh/ruff/)
+    - [flake8](https://flake8.pycqa.org/en/latest/)
+    - [pylint](https://www.pylint.org/) - need configuration
+    - [bandit](https://bandit.readthedocs.io/en/latest/) - security
 - [colab notebook](https://colab.research.google.com/drive/1zrdnYbUfH6Pklqd6ur2tT_msbFTvZH0S?usp=sharing)
+- [Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 
 ### Data & Other
 

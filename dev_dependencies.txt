@@ -1,6 +1,0 @@
-# Development depenedencies
-
-# Include production requirements
--r requirements.txt
-
-pytest ~= 8.3
