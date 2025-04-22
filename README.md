@@ -189,6 +189,26 @@ Example API: `https://api.qrserver.com/v1/create-qr-code/?data=MECARD:N:Bunny,Bu
 
 TBD
 
+### Exercises
+
+#### Stock Tweets
+
+Write a function `related_stocks(symbol)` that will return a list of stocks mentioned when you query this symbol on stocktweets.com.
+
+To find about `AAPL` use `https://api.stocktwits.com/api/2/streams/symbol/AAPL.json`
+
+#### A Tests Class
+
+Write a `Tests` class that helps a teacher with student grades.
+
+It should have the following methods:
+- `add_score(student, test, score)` - add a score for a student
+- `student_avg(student)` - return the average score for a student
+- `test_avg(test)` - return the average score for a test
+
+Write tests for the class using `pytest`.
+
+
 ### Links
 
 - [Classes](https://docs.python.org/3/tutorial/classes.html) in the Python tutorial
