@@ -24,6 +24,12 @@ tokenize_cases = [
     ("", []),
 ]
 
+# Exercise: Read the test cases from data/tokenize_cases.yml
+# Install PyYAML
+# import yaml
+# with open('data/tokenize_cases.yml') as fp:
+#     data = yaml.safe_load(fp)
+
 # Parameter names must match names in parametrize
 @pytest.mark.parametrize('text, expected', tokenize_cases)
 def test_tokenize_params(text, expected):
