@@ -226,3 +226,37 @@ Write tests for the class using `pytest`.
 ### Data & Other
 
 - [tokenize_cases.yml](data/tokenize_cases.yml)
+
+---
+
+## Day 4: Data Processing with Pandas
+
+- Pandas overview
+- Loading data
+- Selecting data
+- Running calculations
+- Grouping data
+- Cleaning data
+- Visualization
+
+### Code
+
+TBD
+
+### Links
+
+- [Pandas](https://pandas.pydata.org/)
+    - [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+    - [Indexing and selecting data](https://pandas.pydata.org/docs/user_guide/indexing.html)
+    - [Group by: split-apply-combine](https://pandas.pydata.org/docs/user_guide/groupby.html)
+- Visualization
+    - [matplotlib](https://matplotlib.org/)
+    - [plotly](https://plotly.com/python/)
+- [NYC Taxi](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- [Kaggle](https://www.kaggle.com/) - Data science competitions
+
+### Data & Other
+
+- [Jan 25 Yellow Taxi Trip Records](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet)
+    - [Data Dictionary - Yellow](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
+    - `curl -LO https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet`
