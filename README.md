@@ -243,6 +243,34 @@ Write tests for the class using `pytest`.
 
 TBD
 
+### Exercise
+
+Load [track.csv](data/track.csv) and draw a box plot of Miki's running speed in km/h.
+To calculate the distance between two coordinates, use the following code:
+
+```python
+import numpy as np
+
+
+lat_km = 92
+lng_km = 111
+
+
+def distance(lat1, lng1, lat2, lng2):
+    """Return euclidean distance (in kilometers) between two coordinates
+
+    >>> distance(0, 0, 1, 1)
+    144.1700384962146
+    """
+    delta_lat = (lat1 - lat2) * lat_km
+    delta_lng = (lng1 - lng2) * lng_km
+    return np.hypot(delta_lat, delta_lng)
+```
+
+Hints: 
+- [DataFrame.apply](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html)
+- [Series.shift](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.shift.html
+
 ### Links
 
 - [Pandas](https://pandas.pydata.org/)

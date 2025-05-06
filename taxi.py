@@ -225,3 +225,150 @@ df.groupby('vendor')['total_amount'].sum()
 df.groupby('vendor')['total_amount'].agg(['min', 'max', 'median'])
 
 # %% Exercise: Which date (e.g. 2020-03-04) has the most rides?
+# Use tpep_pickup_datetime as time of ride
+
+# flow style: Place in () and split to lines
+rides_by_date = (
+    df.groupby(df['tpep_pickup_datetime'].dt.floor('d'))
+    ['vendor']
+    .count()
+)
+# out.index  # dates
+rides_by_date.idxmax()
+# %% Non-range indices
+scores = pd.Series(
+    [100, 80, 70],
+    index=['Rick', 'Summer', 'Morty']
+)
+scores
+
+# %%
+scores[0]  # warning, won't work in future
+
+# %%
+scores.loc['Summer']  # Finds matching label
+
+
+# %%
+scores['Summer']
+# %%
+scores.iloc[0]  # By offset from start
+
+# %%
+
+scores = pd.Series(
+    [100, 80, 70, 2000],
+    index=['Rick', 'Summer', 'Morty', 'Rick']
+)
+scores.loc['Rick']
+# %%
+
+mask = (
+    (rides_by_date.index.year == 2020) &
+    (rides_by_date.index.month == 3)
+
+)
+rides_03_2020 = rides_by_date[mask]
+rides_03_2020.plot()
+
+# %%
+%pip install matplotlib
+# %%
+
+ax = rides_03_2020.plot()
+ax.set_title('March 2020 rides')
+ax.set_xlabel('Day of month')
+ax.set_ylabel('# of rides')
+# %%
+
+ax = rides_03_2020.plot.bar()
+# %%
+clean = df[
+    (df['trip_distance'] > 0) &
+    (df['trip_distance'] < 20)
+]
+clean['trip_distance'].plot.box()
+# %% Exercise: Draw a bar plot
+# x axis is number of passengers
+# y axis is tip in percent from total (median)
+df['tip_pct'] = df['tip_amount'] / df['total_amount'] * 100
+
+(
+    df.groupby('passenger_count')
+    ['tip_pct']
+    .median()
+    .plot.bar(rot=0)
+) ;
+# %%
+%pip install plotly
+# %%
+import plotly.express as px
+
+# %%
+
+tip_pct = (
+    df.groupby('passenger_count')
+    ['tip_pct']
+    .median()
+)
+px.bar(tip_pct)
+# %% What is the median number of rides per week day?
+# Two steps:
+# - Group by date
+# - Group by day
+
+df['date'] = df['tpep_pickup_datetime'].dt.floor('d')
+# df['weekday'] = df['tpep_pickup_datetime'].dt.day_name()
+df['weekday'] = df['tpep_pickup_datetime'].dt.weekday
+dfm20 = df[
+    (df['date'].dt.year == 2020) &
+    (df['date'].dt.month == 3)
+
+]
+
+# by_date = dfm20.groupby(['date', 'weekday'])['VendorID'].count()
+# by_date.index  # multi index, by_date is a series
+
+by_date = dfm20.groupby(['date', 'weekday'], as_index=False)['VendorID'].count()
+# by_date is a dataframe
+daily = by_date.groupby('weekday')['VendorID'].median()
+ax = daily.plot.bar(rot=0)
+ax.set_xticklabels(['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'])
+ax.set_ylabel('number of rides')
+ax.set_title('median weekday rides');
+
+# %%
+
+wdf = pd.read_csv(
+    'data/NYC_Weather_2016_2022.csv.gz',
+    parse_dates=['time'],
+)
+wdf.describe()
+
+# %%
+wdf.dtypes  # without parse_dates, time is object (str)
+
+# %%
+
+df_weather = pd.merge(
+    df, wdf,
+    how='left',
+    left_on='date',
+    right_on='time',
+)
+
+df_weather.sample(10)
+
+# %%
+df_weather[['tip_pct', 'temperature_2m (°C)']].corr()
+
+# %%
+# speed tip: don't concat dfs
+# instead append them to list and then concat all
+from pathlib import Path
+
+dfs = []
+for file_name in Path('data').glob('*.parquet'):
+    df = pd.read_parquet(file_name)
+    dfs.append(df)
+df = pd.concat(dfs, ignore_index=True)
