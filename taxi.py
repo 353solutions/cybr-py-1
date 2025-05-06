@@ -180,3 +180,48 @@ vendor_names = {
     5: 'Helix', # 7 in the schema?
     6: 'Myle',
 }
+df['vendor_name'] = df['VendorID'].map(vendor_names)
+df['vendor_name'][:10]
+# %%
+df['VendorID'].memory_usage(deep=True) / 1_000_000  # 24
+
+# %%
+df['vendor_name'].memory_usage(deep=True) / 1_000_000  # 163
+
+# %% Categorical data: small number of values that repeat (age, gender ...)
+df['vendor'] = df['vendor_name'].astype('category')
+df['vendor'][:10]
+
+
+# %%
+
+df['vendor'].memory_usage(deep=True) / 1_000_000  # 3
+# %%
+df.memory_usage(deep=True).sum() / 1_000_000
+# %%
+len(df[df['vendor'] == 'Creative'])
+# %%
+df['vendor'].value_counts()
+
+# %%
+df['VendorID'].value_counts()
+
+# %%
+df.nunique()  # How many unique values per column
+# %%
+
+# group by:
+# - sort rows in group (bucket) by criteria (column name or a series of values)
+# - run aggregation on each group
+
+# This is like df['vendor'].value_counts()
+df.groupby('vendor')['total_amount'].count()
+
+# %%
+df.groupby('vendor')['total_amount'].sum()
+
+# %%
+
+df.groupby('vendor')['total_amount'].agg(['min', 'max', 'median'])
+
+# %% Exercise: Which date (e.g. 2020-03-04) has the most rides?
