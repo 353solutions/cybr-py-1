@@ -81,3 +81,87 @@ len(
 )
 
 # %%
+df['passenger_count'].max()
+# %%
+df['passenger_count'].min()
+# %%
+df['passenger_count'].describe()
+# describe count is all the non-Nan values
+# %%
+len(df['passenger_count'])  # With NaN
+# %%
+df['passenger_count'].count()  # Without NaN
+
+# %%
+import numpy as np
+
+s = pd.Series([1, np.nan, 2])
+print(s)
+
+# %%
+s.fillna(s.mean())  # fillna return a new series
+
+# %%
+s.fillna(s.mean(), inplace=True)
+s
+
+# See also ffill
+
+# %% Calculate the average speed
+
+s1 = pd.Series([1,2,3])
+s2 = pd.Series([10,20,30])
+s1 + s2
+# %%
+s1 + 7  # broadcasting
+
+# %%
+duration = df['tpep_dropoff_datetime'] - df['tpep_pickup_datetime']
+duration.describe()
+
+# %%
+
+t = df['tpep_dropoff_datetime'][0]
+# %%
+df['tpep_dropoff_datetime'].min() # 2008-12-31...
+# %%
+# GIGO: Garbage In, Garbage Out
+
+# This will fail
+# df['tpep_dropoff_datetime'].year
+
+# To access specific non-numeric attributes use:
+# - dt for Timestamp (e.g. df['date'].dt.year)
+# - str for string methods (e.g. df['name'].str.lower)
+# - cat for categorical data
+# %%
+df['tpep_dropoff_datetime'].dt.year.unique()
+
+# %%
+mask = (
+    (df['tpep_dropoff_datetime'].dt.year == 2020) &
+    (df['tpep_pickup_datetime'].dt.year == 2020) &
+    (df['tpep_dropoff_datetime'] > df['tpep_pickup_datetime'])
+)
+df2020 = df[mask]
+len(df2020)
+
+# %%
+duration = df2020['tpep_dropoff_datetime'] - df2020['tpep_pickup_datetime']
+duration.describe()
+
+# You can add a column to the dataframe
+# df['duration'] = df['tpep_dropoff_dateteime'] - df['tpep_pickup_datetime']
+# %%
+duration_hours = duration / pd.Timedelta('1h')
+# df2020['trip_distance'] / duration  # error, need unit
+speeds = df2020['trip_distance'] / duration_hours
+speeds.median()
+
+# %%
+d = duration[0]
+d / pd.Timedelta('1h')
+# %% Exercise: Time wasted
+# We say that time wasted is the duration of a ride
+# multiplied by number of passengers
+# What is the maximal wasted time?
