@@ -257,6 +257,7 @@ TBD
 
 ### Data & Other
 
-- [Jan 25 Yellow Taxi Trip Records](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet)
-    - [Data Dictionary - Yellow](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
-    - `curl -LO https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet`
+- [March 2020 Yellow Taxi Trip Records](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet)
+    - [Data Dictionary - Yellow](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet)
+    - `curl -LO https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet`
+- [NYC_Weather_2016_2022.csv.gz](data/NYC_Weather_2016_2022.csv.gz)
