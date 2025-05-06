@@ -241,7 +241,7 @@ Write tests for the class using `pytest`.
 
 ### Code
 
-TBD
+- [taxi.py](taxi.py) - Data processing with Pandas
 
 ### Exercise
 
@@ -285,6 +285,7 @@ Hints:
 - [VSCode Jupyter Extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 - [Magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
     - e.g. `%timeit 2 ** 1000`
+- [PyCon Israel](https://pycon.org.il/2025/)
 
 ### Data & Other
 
