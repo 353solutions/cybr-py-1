@@ -68,4 +68,16 @@ s[s < 6]
 # - not: ~
 # Must has () around conditions
 
-# %% Exercise: How many rides have more than a single passenger?
+# %% Exercise: How many rides have more than a single 
+# passenger?
+col = df['passenger_count']
+mask = col > 1
+num_multi_rides = len(col[mask])
+print(f'more than 1 passenger: {num_multi_rides:,}')
+# %%
+len(
+      # col                      # mask
+    df['passenger_count'][df['passenger_count'] > 1]
+)
+
+# %%

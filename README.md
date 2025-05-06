@@ -254,6 +254,9 @@ TBD
     - [plotly](https://plotly.com/python/)
 - [NYC Taxi](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [Kaggle](https://www.kaggle.com/) - Data science competitions
+- [VSCode Jupyter Extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [Magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+    - e.g. `%timeit 2 ** 1000`
 
 ### Data & Other
 
