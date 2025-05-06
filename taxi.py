@@ -165,3 +165,18 @@ d / pd.Timedelta('1h')
 # We say that time wasted is the duration of a ride
 # multiplied by number of passengers
 # What is the maximal wasted time?
+(duration * df2020['passenger_count']).max()
+# %%
+df2020.loc[duration.idxmax()]
+# %%
+
+df['VendorID'].unique()
+
+
+# %%
+vendor_names = {
+    1: 'Creative',
+    2: 'Curb',
+    5: 'Helix', # 7 in the schema?
+    6: 'Myle',
+}
