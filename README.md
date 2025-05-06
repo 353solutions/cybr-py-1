@@ -259,5 +259,6 @@ TBD
 
 - [March 2020 Yellow Taxi Trip Records](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet)
     - [Data Dictionary - Yellow](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet)
-    - `curl -LO https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet`
+    - `!curl -LO https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet`
+    - `./.venv/bin/python -m pip install pyarrow`
 - [NYC_Weather_2016_2022.csv.gz](data/NYC_Weather_2016_2022.csv.gz)
